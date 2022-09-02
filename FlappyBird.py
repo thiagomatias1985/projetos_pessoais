@@ -1,6 +1,9 @@
 import pygame
 import os
 import random
+import neat
+
+#Adionando nova linha para versão do github
 
 TELA_LARGURA = 500
 TELA_ALTURA = 800
