@@ -4,6 +4,7 @@ import random
 import neat
 
 #Adionando nova linha para versão do github
+#Adiconando nova linha para teste de merge
 
 TELA_LARGURA = 500
 TELA_ALTURA = 800
